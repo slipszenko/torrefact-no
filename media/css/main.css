@@ -1,0 +1,16 @@
+body {
+    font-family: Montserrat, Arial, sans-serif;
+    text-align: center;
+}
+
+.color-torrefact {
+    color: #DC9C18;
+}
+
+.color-no {
+    color: #D12800;
+}
+
+header {
+    font-size: 4em;
+}
